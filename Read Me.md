@@ -1,8 +1,5 @@
 # Leading Clock ⏰
 
-[![SwiftUI](https://img.shield.io/badge/SwiftUI-5.0-orange.svg)](https://developer.apple.com/xcode/swiftui/)
-[![Platform](https://img.shield.io/badge/platform-iOS-blue.svg)](https://www.apple.com/ios/)
-[![License](https://img.shield.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 
 A beautiful, minimalist, and highly customizable clock app for iOS. Designed for focus, style, and OLED screen protection.
 
